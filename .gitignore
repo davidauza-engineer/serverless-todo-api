@@ -10,3 +10,6 @@ jspm_packages
 
 # IDE related configuration
 .idea
+
+# DynamoDB
+.dynamodb
